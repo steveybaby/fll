@@ -23,8 +23,8 @@ Step-by-step guide to registering teams, events, and volunteers across the FIRST
 
 ## Core Season Documents
 
-### [Season Overview](#)
-Summary of the UNEARTHED™ theme, competition structure, and Core Values. *(No public link provided)*
+### [Season Overview](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-season-overview.pdf)
+Summary of the UNEARTHED™ theme, competition structure, and Core Values.
 
 ### [Engineering Notebook](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf)
 Notebook template for documenting the team's Innovation Project, robot design, and season progress.
