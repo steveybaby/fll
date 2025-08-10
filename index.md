@@ -3,22 +3,76 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Website
+# FIRST LEGO League – UNEARTHED™ 2025–26 Resources
 
-This is a simple website built with Jekyll and hosted on GitHub Pages. Here you'll find my blog posts, photos, and more about me.
+## General Participation
 
-## Recent Posts
+### [Participation Rules](https://firstinspires.blob.core.windows.net/fll/challenge/2024-25/fll-challenge-submerged-participation-rules.pdf)
+Rules and requirements for participating in FIRST LEGO League events, including eligibility, conduct, and safety guidelines.
 
-<ul>
-{% for post in site.posts limit:5 %}
-  <li>
-    <span>{{ post.date | date: "%B %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+### [Systems Flowchart – Team, Event, Volunteer Registration](https://drive.google.com/file/d/1fOU9S4MvaMfxEhEQgodrbr0RNduwFCIb/view)
+Step-by-step guide to registering teams, events, and volunteers across the FIRSTinspires.org and mylumi platforms.
 
-[View all posts →](/blog/)
+---
 
-## Featured Photos
+## Core Season Documents
 
-Check out some of my latest photos in the [photo gallery](/photos/).
+### [Season Overview](#)
+Summary of the UNEARTHED™ theme, competition structure, and Core Values. *(No public link provided)*
+
+### [Engineering Notebook](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf)
+Notebook template for documenting the team's Innovation Project, robot design, and season progress.
+
+### [Robot Game Rulebook](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf)
+Complete rules for the Robot Game, including scoring conditions and mission details.
+
+### [Challenge Updates & Clarifications](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-challenge-updates.pdf)
+Official clarifications and rule updates issued during the season.
+
+### [Field Setup Reference Guide](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-field-setup-reference-guide.pdf)
+Instructions for assembling and placing all mission models on the competition field.
+
+---
+
+## Judging & Awards
+
+### [Awards & Allocation](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-awards.pdf)
+Descriptions of awards and recognition criteria used in FIRST LEGO League events.
+
+### [Judging Session Flowchart](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-judging-session-flowchart.pdf)
+Visual guide to the judging process and session flow at tournaments.
+
+### [Judging Rubrics (Color)](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rubrics-color.pdf)
+Official judging rubrics for Core Values, Innovation Project, and Robot Design.
+
+### [Official Judging Spreadsheet (Excel Scorer)](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-excel-scorer.xlsm)
+Excel-based tool for recording and calculating judging results.
+
+---
+
+## Multimedia & Support Materials
+
+### [Multimedia Resources](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-multimedia-resources.pdf)
+Logos, graphics, and media resources for use in team materials and outreach.
+
+### [Welcome Letter / Certificate Template](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-welcome-certificate-letter.pptx)
+Customizable welcome letter and certificate template for team members.
+
+---
+
+## Videos
+
+### [Season Reveal Video](https://youtu.be/exWkcUBS0j8?si=iBuccvzflOIHoSUw)
+Official unveiling of the UNEARTHED™ theme and season details.
+
+### [Season Welcome Video](https://youtu.be/PlJ51XUoP-Q)
+An introduction to the season for teams, coaches, and volunteers.
+
+### [Robot Game Missions Video](https://youtu.be/ErDj8myI_Tg)
+Explanation and visual demo of the season's Robot Game missions.
+
+### [Robot Game Missions Video (MP4 Download)](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-robot-game-missions-video.mp4)
+Downloadable version of the Robot Game missions video.
+
+### [Preparing for Your Event](https://youtu.be/OTmQigVHNMg)
+Tips and guidance for getting ready for a tournament.
