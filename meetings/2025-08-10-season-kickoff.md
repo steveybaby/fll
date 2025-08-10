@@ -25,6 +25,11 @@ date: 2025-08-10
   - Identify high-value missions
   - Consider difficulty levels and robot requirements
 
+- **Review the Engineering Notebook**
+  - Understand documentation requirements
+  - Plan our approach to keeping records
+  - Discuss team roles for notebook maintenance
+
 - **Start planning what we'd need our robot to do**
   - List required robot capabilities
   - Prioritize missions for our strategy
@@ -39,6 +44,7 @@ date: 2025-08-10
 - [Season Welcome Video](https://youtu.be/PlJ51XUoP-Q)
 - [Field Setup Reference Guide](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-field-setup-reference-guide.pdf)
 - [Robot Game Rulebook](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf)
+- [Engineering Notebook](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf)
 
 ## Meeting Notes
 
