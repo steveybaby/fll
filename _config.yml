@@ -11,6 +11,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Disable default theme
+theme:
+
 collections:
   posts:
     output: true
