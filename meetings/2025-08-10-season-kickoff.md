@@ -15,7 +15,7 @@ date: 2025-08-10
 - [Robot Game Missions Video](https://youtu.be/ErDj8myI_Tg)
 - [Season Welcome Video](https://youtu.be/PlJ51XUoP-Q)
 
-### Assemble the Challenges ([link](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-field-setup-reference-guide.pdf))
+### Assemble the Challenges ([link](#model-building-assignments))
 - Set up the competition field
 - Place mission models according to setup guide
 - Test all field elements
