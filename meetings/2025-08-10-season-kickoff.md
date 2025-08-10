@@ -40,6 +40,11 @@ date: 2025-08-10
 - Prioritize missions for our strategy
 - Begin brainstorming robot design concepts
 
+### Brainstorm Team Name
+- Come up with creative team name ideas
+- Consider names that reflect our team's personality
+- Vote on final team name choice
+
 ---
 
 ## Model Building Assignments
