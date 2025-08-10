@@ -15,17 +15,17 @@ date: 2025-08-10
 - [Robot Game Missions Video](https://youtu.be/ErDj8myI_Tg)
 - [Season Welcome Video](https://youtu.be/PlJ51XUoP-Q)
 
-### [Assemble the Challenges](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-field-setup-reference-guide.pdf)
+### Assemble the Challenges ([link](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-field-setup-reference-guide.pdf))
 - Set up the competition field
 - Place mission models according to setup guide
 - Test all field elements
 
-### [Discuss/Evaluate the Challenges](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf)
+### Discuss/Evaluate the Challenges ([link](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf))
 - Review each mission and scoring opportunities
 - Identify high-value missions
 - Consider difficulty levels and robot requirements
 
-### [Review the Engineering Notebook](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf)
+### Review the Engineering Notebook ([link](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf))
 - Understand documentation requirements
 - Plan our approach to keeping records
 - Discuss team roles for notebook maintenance
