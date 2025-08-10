@@ -20,7 +20,7 @@ date: 2025-08-10
 - Place mission models according to setup guide
 - Test all field elements
 
-### Discuss/Evaluate the Challenges ([link](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf))
+### Discuss/Evaluate the Challenges ([link](https://youtu.be/ErDj8myI_Tg))
 - Review each mission and scoring opportunities
 - Identify high-value missions
 - Consider difficulty levels and robot requirements
