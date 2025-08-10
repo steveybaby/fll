@@ -41,6 +41,22 @@ Official clarifications and rule updates issued during the season.
 ### [Field Setup Reference Guide](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-field-setup-reference-guide.pdf)
 Instructions for assembling and placing all mission models on the competition field.
 
+### Model Building Guides
+Step-by-step instructions for building each challenge model:
+- [Model 1](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-1-nonverbal.pdf)
+- [Model 2](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-2-nonverbal.pdf)
+- [Model 3](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-3-nonverbal.pdf)
+- [Model 4](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-4-nonverbal.pdf)
+- [Model 5](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-5-nonverbal.pdf)
+- [Model 6](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-6-nonverbal.pdf)
+- [Model 7](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-7-nonverbal.pdf)
+- [Model 8](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-8-nonverbal.pdf)
+- [Model 9](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-9-nonverbal.pdf)
+- [Model 10](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-10-nonverbal.pdf)
+- [Model 11](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-11-nonverbal.pdf)
+- [Model 12](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-12-nonverbal.pdf)
+- [Model 13](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-13-nonverbal.pdf)
+
 ---
 
 ## Judging & Awards
