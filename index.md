@@ -29,6 +29,9 @@ Summary of the UNEARTHED™ theme, competition structure, and Core Values.
 ### [Engineering Notebook](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf)
 Notebook template for documenting the team's Innovation Project, robot design, and season progress.
 
+### [Innovation Project Worksheets](https://docs.google.com/presentation/d/1FzwarsVui1aHNld41dREQT0h-MdO2Zq48Fb6U-nSf3A/edit?slide=id.g867d32a2c2_1_168#slide=id.g867d32a2c2_1_168)
+Worksheets and templates to help guide your team through the Innovation Project process.
+
 ### [Robot Game Rulebook](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf)
 Complete rules for the Robot Game, including scoring conditions and mission details.
 
