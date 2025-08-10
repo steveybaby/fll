@@ -30,6 +30,11 @@ date: 2025-08-10
 - Plan our approach to keeping records
 - Discuss team roles for notebook maintenance
 
+### Review the Innovation Worksheets ([link](https://docs.google.com/presentation/d/1FzwarsVui1aHNld41dREQT0h-MdO2Zq48Fb6U-nSf3A/edit?slide=id.ge3c0b7bd8d_0_188#slide=id.ge3c0b7bd8d_0_188))
+- Go through the Innovation Project worksheets
+- Understand the Innovation Project requirements
+- Begin brainstorming potential Innovation Project ideas
+
 ### Start Planning What We'd Need Our Robot to Do
 - List required robot capabilities
 - Prioritize missions for our strategy
