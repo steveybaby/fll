@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function loadGalleryImages() {
     const gallery = document.getElementById('gallery-2025-08-10');
-    const meetingPath = '/assets/images/meetings/2025-08-10/';
+    const meetingPath = '{{ "/assets/images/meetings/2025-08-10/" | relative_url }}';
     
     // Common image extensions
     const imageExtensions = ['jpg', 'jpeg', 'png', 'gif', 'webp'];

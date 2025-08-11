@@ -3,6 +3,9 @@ description: A simple website with blog and photos
 url: "https://fll.sharpers.com"
 baseurl: ""
 
+# Development overrides (use with: bundle exec jekyll serve --config _config.yml,_config_dev.yml)
+# For local development, baseurl should be "/fll"
+
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:year/:month/:day/:title/
