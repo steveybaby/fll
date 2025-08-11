@@ -24,19 +24,98 @@ date: 2025-08-10
 ## Model Building Assignments
 Each team member is responsible for building specific models:
 
-- [Model 1](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-1-enus.pdf) - **Asher**
-- [Model 2](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-2-enus.pdf) - **Jasper**
-- [Model 3](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-3-enus.pdf) - **Ethan**
-- [Model 4](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-4-enus.pdf) - **Kai**
-- [Model 5](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-5-enus.pdf) - **Jeremiah**
-- [Model 6](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-6-enus.pdf) - **Luca**
-- [Model 7](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-7-enus.pdf) - **Asher**
-- [Model 8](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-8-enus.pdf) - **Jasper**
-- [Model 9](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-9-enus.pdf) - **Ethan**
-- [Model 10](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-10-enus.pdf) - **Kai**
-- [Model 11](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-11-enus.pdf) - **Jeremiah**
-- [Model 12](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-12-enus.pdf) - **Luca**
-- [Model 13](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-13-enus.pdf) - **Asher**
+<div class="model-cards">
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-1-enus.pdf">
+      <h3>Model 1</h3>
+    </a>
+    <div class="assignee">Asher</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-2-enus.pdf">
+      <h3>Model 2</h3>
+    </a>
+    <div class="assignee">Jasper</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-3-enus.pdf">
+      <h3>Model 3</h3>
+    </a>
+    <div class="assignee">Ethan</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-4-enus.pdf">
+      <h3>Model 4</h3>
+    </a>
+    <div class="assignee">Kai</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-5-enus.pdf">
+      <h3>Model 5</h3>
+    </a>
+    <div class="assignee">Jeremiah</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-6-enus.pdf">
+      <h3>Model 6</h3>
+    </a>
+    <div class="assignee">Luca</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-7-enus.pdf">
+      <h3>Model 7</h3>
+    </a>
+    <div class="assignee">Asher</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-8-enus.pdf">
+      <h3>Model 8</h3>
+    </a>
+    <div class="assignee">Jasper</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-9-enus.pdf">
+      <h3>Model 9</h3>
+    </a>
+    <div class="assignee">Ethan</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-10-enus.pdf">
+      <h3>Model 10</h3>
+    </a>
+    <div class="assignee">Kai</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-11-enus.pdf">
+      <h3>Model 11</h3>
+    </a>
+    <div class="assignee">Jeremiah</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-12-enus.pdf">
+      <h3>Model 12</h3>
+    </a>
+    <div class="assignee">Luca</div>
+  </div>
+  
+  <div class="model-card">
+    <a href="https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-bi-book-13-enus.pdf">
+      <h3>Model 13</h3>
+    </a>
+    <div class="assignee">Asher</div>
+  </div>
+</div>
 
 ## Meeting Notes
 
