@@ -19,6 +19,11 @@ Rules and requirements for participating in FIRST LEGO League events, including 
 ### [Systems Flowchart – Team, Event, Volunteer Registration](https://drive.google.com/file/d/1fOU9S4MvaMfxEhEQgodrbr0RNduwFCIb/view)
 Step-by-step guide to registering teams, events, and volunteers across the FIRSTinspires.org and mylumi platforms.
 
+### [Esther Innovation Deck](https://docs.google.com/presentation/d/1nFXz6UaNS1u6l3MYtT1AiZZHcRHkyUzDXeJlXl7EKAU/edit?slide=id.g36be348cf6e_0_18#slide=id.g36be348cf6e_0_18)
+An introduction to being innovative with the innovation project!
+
+
+
 ---
 
 ## Core Season Documents
