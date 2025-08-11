@@ -93,6 +93,9 @@ function loadGalleryImages() {
     // You'll need to manually add your images here for now
     // In a more advanced setup, you could use Jekyll to automatically scan the directory
     const imageList = [
+        '3190850475024400528.JPG',
+        '5703217700916735598.JPG',
+        '6132005204961641733.JPG',
         'IMG_3851.jpeg',
         'IMG_3853.jpeg', 
         'IMG_3854.JPG',
