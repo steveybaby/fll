@@ -10,39 +10,14 @@ date: 2025-08-10
 
 ## Meeting Agenda
 
-### Watch the Videos
-- [Season Reveal Video](https://youtu.be/exWkcUBS0j8?si=iBuccvzflOIHoSUw)
-- [Season Welcome Video](https://youtu.be/PlJ51XUoP-Q)
+### ✅ Watch the Videos
+- ✅ [Season Reveal Video](https://youtu.be/exWkcUBS0j8?si=iBuccvzflOIHoSUw)
+- ✅ [Season Welcome Video](https://youtu.be/PlJ51XUoP-Q)
 
-### Assemble the Challenges ([link](#model-building-assignments))
-- Set up the competition field - see assignments below
-- Place mission models according to [setup guide](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-field-setup-reference-guide.pdf)
+### ✅ Assemble the Challenges ([link](#model-building-assignments))
+- ✅ Set up the competition field - see assignments below
+- ✅ Place mission models according to [setup guide](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-field-setup-reference-guide.pdf)
 
-### Discuss/Evaluate the Challenges ([link](https://youtu.be/ErDj8myI_Tg))
-- [Robot Game Missions Video](https://youtu.be/ErDj8myI_Tg)
-- Review each mission and scoring opportunities
-- Identify high-value missions ([link](https://docs.google.com/spreadsheets/d/16GoX7ViYFpjIp-rWnRepenPGJnRnlhobnPAYEqyGCG0/edit?gid=1372039276#gid=1372039276))
-- Consider difficulty levels and robot requirements
-
-### Review the Engineering Notebook ([link](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf))
-- Understand documentation requirements
-- Plan our approach to keeping records
-- Discuss team roles for notebook maintenance
-
-### Review the Innovation Worksheets ([link](https://docs.google.com/presentation/d/1FzwarsVui1aHNld41dREQT0h-MdO2Zq48Fb6U-nSf3A/edit?slide=id.ge3c0b7bd8d_0_188#slide=id.ge3c0b7bd8d_0_188))
-- Go through the Innovation Project worksheets
-- Understand the Innovation Project requirements
-- Begin brainstorming potential Innovation Project ideas
-
-### Start Planning What We'd Need Our Robot to Do
-- List required robot capabilities
-- Prioritize missions for our strategy
-- Begin brainstorming robot design concepts
-
-### Brainstorm Team Name
-- Come up with creative team name ideas
-- Consider names that reflect our team's personality
-- Vote on final team name choice
 
 ---
 
@@ -70,6 +45,14 @@ Each team member is responsible for building specific models:
 * We watched the [FLL launch video](https://youtu.be/exWkcUBS0j8?si=iBuccvzflOIHoSUw)
 * We watched the [season welcome video](https://youtu.be/PlJ51XUoP-Q)
 * We opened up the lego sets and built them
+
+### First Core Values
+
+**Teamwork**
+- The team worked individually but then helped each other on building the models
+
+**Innovation**
+- The team persevered to build all the models, even though some were quite tricky
 
 ---
 
